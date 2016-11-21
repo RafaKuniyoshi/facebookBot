@@ -14,7 +14,7 @@ app.get('/webhook', function(req, res) {
 });
 
 app.get('/hello', function(req, res){
-  res.send('works!!');
+  res.send('Vamos ver se da certo');
 })
 
 app.listen(3000, function () {
