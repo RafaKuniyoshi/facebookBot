@@ -1,0 +1,22 @@
+{
+  "name": "facebookbot",
+  "version": "1.0.0",
+  "description": "Just a facebook bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "haha no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaKuniyoshi/facebookBot.git"
+  },
+  "author": "Rafael Kuniyoshi <rafael.kuniyoshi12@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RafaKuniyoshi/facebookBot/issues"
+  },
+  "homepage": "https://github.com/RafaKuniyoshi/facebookBot#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
